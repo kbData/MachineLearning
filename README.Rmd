@@ -1,6 +1,6 @@
 ---
 title: "Report"
-author: "Kiryl Batsiukov"
+author: ""
 date: "03/20/2015"
 output: html_document
 ---
